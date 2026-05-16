@@ -1,0 +1,11 @@
+*.csv
+*.parquet
+*.pkl
+*.pt
+logs/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+models/*.pkl
