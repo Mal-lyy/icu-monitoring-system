@@ -77,6 +77,7 @@ on the same independent test set of 12,038 patients.
 
 ![Dashboard Overview](assets/dashboard_overview.png)
 ![Patient Detail](assets/patient_detail.png)
+![SHAP and Risk Trajectory](assets/shap_risk.png)
 
 ---
 
